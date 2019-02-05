@@ -10,11 +10,11 @@ def main():
     """
 
     """
+    
     with open('corncob_lowercase.txt', 'r') as f:
         words = f.readlines()
 
     query = {'title': 'Wiktionary:International Phonetic Alphabet'}
-
     with open('ipa_dict.csv', 'w') as csv_file:
         writer = csv.writer(csv_file, delimiter = '\t')
         writer.writerow(['IPA', 'word'])
