@@ -1,5 +1,7 @@
 const fs = require('fs')
-const jsonData = fs.readFileSync('./manual_db/database.json')
+// const jsonData = fs.readFileSync('./manual_db/database.json')
+const jsonData = fs.readFileSync('./manual_db/remaining.json')
+
 const mongoose = require('mongoose')
 
 data = JSON.parse(jsonData)

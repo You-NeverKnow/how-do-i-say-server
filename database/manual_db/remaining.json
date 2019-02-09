@@ -1,0 +1,147 @@
+{
+  "f": [
+    { "word": "full", "indices": [0] },
+    { "word": "Friday", "indices": [0] },
+    { "word": "fish", "indices": [0] },
+    { "word": "knife", "indices": [3, 4] }
+  ],
+  "v": [
+    { "word": "vest", "indices": [0] },
+    { "word": "village", "indices": [0] },
+    { "word": "view", "indices": [0] },
+    { "word": "cave", "indices": [2, 3] }
+  ],
+  "\u03b8": [
+    { "word": "Thought", "indices": [0,1] },
+    { "word": "Think", "indices": [0, 1] },
+    { "word": "Bath", "indices": [2, 3] }
+  ],
+  "\u00f0 ": [
+    { "word": "There", "indices": [0, 1] },
+    { "word": "those", "indices": [0, 1] },
+    { "word": "brothers", "indices": [3, 4] },
+    { "word": "others", "indices": [1, 2] }
+  ],
+  "z": [
+    { "word": "zoo", "indices": [0] },
+    { "word": "crazy", "indices": [3] },
+    { "word": "lazy", "indices": [2] },
+    { "word": "zigzag", "indices": [0, 3] },
+    { "word": "nose", "indices": [2, 3] }
+  ],
+  "\u0283": [
+    { "word": "Shirt", "indices": [0, 1] },
+    { "word": "rush", "indices": [2, 3] },
+    { "word": "shop", "indices": [0, 1] },
+    { "word": "cash", "indices": [2, 3] }
+  ],
+  "\u0292": [
+    { "word": "Television", "indices": [6, 7, 8] },
+    { "word": "delusion", "indices": [4, 5, 6] },
+    { "word": "casual", "indices": [2] }
+  ],
+  "h": [
+    { "word": "high", "indices": [0] },
+    { "word": "help", "indices": [0] },
+    { "word": "hello", "indices": [0] }
+  ],
+  "p": [
+    { "word": "pin", "indices": [0] },
+    { "word": "cap", "indices": [2] },
+    { "word": "purpose", "indices": [0, 3] },
+    { "word": "pause", "indices": [0] }
+  ],
+  "b": [
+    { "word": "bag", "indices": [0] },
+    { "word": "bubble", "indices": [0] },
+    { "word": "build", "indices": [0] },
+    { "word": "robe", "indices": [2] }
+  ],
+  "t": [
+    { "word": "time", "indices": [0] },
+    { "word": "train", "indices": [0] },
+    { "word": "tow", "indices": [0] },
+    { "word": "late", "indices": [2] }
+  ],
+  "d": [
+    { "word": "door", "indices": [0] },
+    { "word": "day", "indices": [0] },
+    { "word": "drive", "indices": [0] },
+    { "word": "down", "indices": [0] },
+    { "word": "feed", "indices": [0] }
+  ],
+  "k": [
+    { "word": "cash", "indices": [0] },
+    { "word": "quick", "indices": [3, 4] },
+    { "word": "cricket", "indices": [0, 3, 4] },
+    { "word": "sock", "indices": [2, 3] }
+  ],
+  "g": [
+    { "word": "girl", "indices": [0] },
+    { "word": "green", "indices": [0] },
+    { "word": "grass", "indices": [0] },
+    { "word": "flag", "indices": [3] }
+  ],
+  "\u0288\u0283": [
+    { "word": "Choose", "indices": [0, 1] },
+    { "word": "cheese", "indices": [0, 1] },
+    { "word": "church", "indices": [0, 1] },
+    { "word": "watch", "indices": [3, 4] }
+  ],
+  "d\u0292": [
+    { "word": "Joy", "indices": [0] },
+    { "word": "juggle", "indices": [0] },
+    { "word": "juice", "indices": [0] },
+    { "word": "stage", "indices": [3, 4] }
+  ],
+  "m": [
+    { "word": "room", "indices": [3] },
+    { "word": "mother", "indices": [0] },
+    { "word": "mad", "indices": [0] },
+    { "word": "more", "indices": [0] }
+  ],
+  "n": [
+    { "word": "now", "indices": [0] },
+    { "word": "nobody", "indices": [0] },
+    { "word": "knew", "indices": [0, 1] },
+    { "word": "turn", "indices": [3] }
+  ],
+  "\u014b": [
+    { "word": "king", "indices": [2, 3] },
+    { "word": "thing", "indices": [3, 4] },
+    { "word": "song", "indices": [2, 3] },
+    { "word": "swimming", "indices": [6, 7] }
+  ],
+  "r": [
+    { "word": "road", "indices": [0] },
+    { "word": "roses", "indices": [0] },
+    { "word": "river", "indices": [0] },
+    { "word": "ring", "indices": [0] },
+    { "word": "ride", "indices": [0] }
+  ],
+  "j": [
+    { "word": "yellow", "indices": [0] },
+    { "word": "usual", "indices": [0] },
+    { "word": "tune", "indices": [1] },
+    { "word": "yesterday", "indices": [0] },
+    { "word": "yard", "indices": [0] }
+  ],
+  "w": [
+    { "word": "wall", "indices": [0] },
+    { "word": "walk", "indices": [0] },
+    { "word": "wine", "indices": [0] },
+    { "word": "world", "indices": [0] }
+  ],
+  "l": [
+    { "word": "law", "indices": [0] },
+    { "word": "lots", "indices": [0] },
+    { "word": "leap", "indices": [0] },
+    { "word": "long", "indices": [0] }
+  ],
+  "\u026b": [
+    { "word": "pill", "indices": [2, 3] },
+    { "word": "cold", "indices": [2] },
+    { "word": "chill", "indices": [3, 4] },
+    { "word": "melt", "indices": [2] }
+  ]
+}

@@ -32,6 +32,10 @@ const findData = (str, res) => {
 }
 
 app.get('/search', function (req, res) {
+  res.set("Access-Control-Allow-Origin", "*")
+  if (req.query['q'] == "") {
+    res.send([]);
+  }
   findData(req.query['q'], res)
 })
 
